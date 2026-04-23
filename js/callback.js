@@ -11,7 +11,7 @@ sum(5,3,callback);//sum(5,3,callback) call hua
 
 const hello=()=>{
     console.log("Hello, World!");
-}
+} 
 setTimeout(hello, 1000);
 function getdata(callback){
   setTimeout(()=>{
